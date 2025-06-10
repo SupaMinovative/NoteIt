@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E0F7FA"
+    android:background="#E3F2FD"
     tools:context=".SecondActivity">
 
     <EditText
@@ -16,7 +16,7 @@
         android:layout_marginTop="50dp"
         android:layout_marginEnd="55dp"
         android:autofillHints=""
-        android:background="#E0F7FA"
+        android:background="#E3F2FD"
         android:ems="10"
         android:gravity="start|top"
         android:hint="Note....."
@@ -36,10 +36,9 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="10dp"
-        android:background="#E0F7FA"
         android:clickable="true"
         android:contentDescription="Add new item to the list"
-        app:backgroundTint="#E0F7FA"
+        app:backgroundTint="#29B6F6"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_check" />
