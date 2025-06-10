@@ -1,6 +1,6 @@
-<p align="center">## 📝 NoteIt</p>
+## 📝 Note It
 
-NoteIt is a simple note-taking Android app created as part of a tutorial and Udemy-based learning journey. It is one of my early projects to explore multiple activities, passing data with Intents, basic CRUD operations, and working with custom adapters and internal file storage.
+**Note It** is a simple note-taking Android app created as part of a tutorial and Udemy-based learning journey. It is one of my early projects to explore multiple activities, passing data with Intents, basic CRUD operations, and working with custom adapters and internal file storage.
 
 ---
 <p align="center"><img src="screenshots/noteit_main.png" alt="Main Screen" width="600"/></p>
